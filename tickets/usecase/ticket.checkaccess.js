@@ -1,0 +1,6 @@
+
+class TicketCheckAccess {
+    constructor() {
+
+    }
+}
