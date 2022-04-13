@@ -1,0 +1,4 @@
+class TicketsController{
+    constructor() {
+    }
+}
